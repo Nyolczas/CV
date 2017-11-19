@@ -14,10 +14,36 @@ Tanulmányok
 1992 - 1993. Szolnoki Művésztelep Rajz - Festészet
 
 
+Szaktudás:
+Szabadkézi rajztudás, festészeti ismeretek
+Tradicionális / digitális 2D 3D animációs készség
+
+
 Szoftveres tudás:
+
+Design:
 Photoshop
+Krita
 Illustrator
-AfterEffects
 InDesign
 
-M
+animáció-kompozit:
+Moho
+AfterEffects
+Fusion 
+Nuke
+
+3D
+Maya
+ZBrush
+
+Web:
+HTML
+CSS
+JavaScript
+Bootstrap
+JQuery
+Angular
+PHP 
+Worldpress
+
